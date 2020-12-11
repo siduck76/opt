@@ -39,3 +39,11 @@ build & install
 
 In the file config.mk you can override build options,
 such as the compiler flags or the installation path.
+
+without border patch
+
+<img src="https://raw.githubusercontent.com/siduck76/bACKUP-FUCK/main/with.png">
+
+with border patch
+
+<img src="https://raw.githubusercontent.com/siduck76/bACKUP-FUCK/main/wo.png">
