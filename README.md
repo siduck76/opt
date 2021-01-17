@@ -42,8 +42,8 @@ such as the compiler flags or the installation path.
 
 without border patch
 
-<img src="https://raw.githubusercontent.com/siduck76/bACKUP-FUCK/main/with.png">
+<img src="https://raw.githubusercontent.com/siduck76/personal-backup/master/with.png?token=AOCTAFUEELCOTYMHC56ZFEDAAQ4LI">
 
 with border patch
 
-<img src="https://raw.githubusercontent.com/siduck76/bACKUP-FUCK/main/wo.png">
+<img src="https://raw.githubusercontent.com/siduck76/personal-backup/master/wo.png?token=AOCTAFSYLZZ5M4D4KZG5NJ3AAQ4LO">
